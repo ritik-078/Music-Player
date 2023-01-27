@@ -13,17 +13,45 @@ const nextBtn = document.getElementById('next');
 //Music
 const songs = [
     {
+        name: 'Without Me - Eminem',
+        displayName: 'Without Me',
+        artist: 'Eminem',
+    },
+    {
         name: 'Rap God - Eminem',
         displayName: 'Rap God',
         artist: 'Eminem',
     },
     {
-        name: 'Without Me - Eminem',
-        displayName: 'Without Me',
-        artist: 'Eminem',
+        name: 'Remember The Name - Ed Sheeran(feat. Eminem & 50 Cent)',
+        displayName: 'Remember The Name',
+        artist: 'Ed Sheeran(ft. Eminem)',
     },
-    
-    
+    {
+        name: 'BAARISHEIN Anuv Jain',
+        displayName: 'BAARISHEIN',
+        artist: 'Anuv Jain',
+    },
+    {
+        name: 'Stereo Hearts ft. Adam Levine',
+        displayName: 'Stereo Hearts',
+        artist: 'Gym Class Heroes',
+    },
+    {
+        name: 'Make You Mine PUBLIC',
+        displayName: 'Make You Mine ',
+        artist: 'PUBLIC',
+    },
+    {
+        name: 'Perfect Ed Sheeran',
+        displayName: 'Perfect',
+        artist: 'Ed Sheeran',
+    },
+    {
+        name: 'See You Again Wiz Khalifa',
+        displayName: 'See You Again ',
+        artist: 'Wiz Khalifa',
+    },
 ];
 
 //Check if playing
