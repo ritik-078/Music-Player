@@ -1,2 +1,2 @@
 # Music-Player
-A simple music player made with HTML,CSS and JavaScript. 
+A simple User Interface of a music player created in HTML, CSS and JavaScript.
